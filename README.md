@@ -5,8 +5,8 @@ This project implements a lightweight container runtime similar to Docker using 
 
 | Name | SRN |
 |------|-----|
-| SIDDU SANGANNA SHIRASAGI | PES1UG25CS846 |
-| Shravanakumar Patil | PES1UG24CS692  |
+| SANTOSH N| PES1UG25CS615 |
+| SPOORTHI P | PES1UG24CS629  |
 
 ---
 
